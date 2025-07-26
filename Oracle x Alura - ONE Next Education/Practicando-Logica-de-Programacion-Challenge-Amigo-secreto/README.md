@@ -1,4 +1,5 @@
 🎁**Proyecto: Amigo Secreto – Challenge Oracle x Alura ONE**
+
 Este proyecto consiste en una aplicación web que permite organizar un sorteo de "Amigo Secreto" entre un grupo de participantes. A través de una interfaz sencilla e intuitiva, los usuarios ingresan nombres y el sistema realiza emparejamientos aleatorios, asegurando que cada persona reciba un amigo secreto distinto sin asignarse a sí misma.
 
 **¿Qué hace la aplicación?**
